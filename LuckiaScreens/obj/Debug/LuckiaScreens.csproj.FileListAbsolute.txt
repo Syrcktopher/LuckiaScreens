@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\LuckiaScreens\LuckiaScreens\bin\Debug\LuckiaScreens.exe.config
+C:\Users\User\source\repos\LuckiaScreens\LuckiaScreens\bin\Debug\LuckiaScreens.exe
+C:\Users\User\source\repos\LuckiaScreens\LuckiaScreens\bin\Debug\LuckiaScreens.pdb
+C:\Users\User\source\repos\LuckiaScreens\LuckiaScreens\obj\Debug\LuckiaScreens.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LuckiaScreens\LuckiaScreens\obj\Debug\LuckiaScreens.LuckiaScreens.resources
+C:\Users\User\source\repos\LuckiaScreens\LuckiaScreens\obj\Debug\LuckiaScreens.Properties.Resources.resources
+C:\Users\User\source\repos\LuckiaScreens\LuckiaScreens\obj\Debug\LuckiaScreens.csproj.GenerateResource.cache
+C:\Users\User\source\repos\LuckiaScreens\LuckiaScreens\obj\Debug\LuckiaScreens.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LuckiaScreens\LuckiaScreens\obj\Debug\LuckiaScreens.exe
+C:\Users\User\source\repos\LuckiaScreens\LuckiaScreens\obj\Debug\LuckiaScreens.pdb
+C:\Users\User\source\repos\LuckiaScreens\LuckiaScreens\obj\Debug\LuckiaScreens.Opciones.resources
